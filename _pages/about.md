@@ -18,4 +18,4 @@ Corporate Disclosures, Government Transparency, Government-Firm Relations, Corpo
 
 Contact
 ------
-My email is qing.xia.dphil "at" said.oxford.edu
+My email is qing.xia.dphil@said.oxford.edu
