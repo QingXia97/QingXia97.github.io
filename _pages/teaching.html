@@ -5,8 +5,9 @@ permalink: /teaching/
 author_profile: true
 ---
 
-{% include base_path %}
-
-{% for post in site.teaching reversed %}
-  {% include archive-single.html %}
+<h2>University of Oxford</h2>
+<hr>
+{% assign ox_teaching = site.teaching | where: "category", "oxford" %}
+{% for post in ox_teaching %}
+  {% include archive-single-teaching.html %}
 {% endfor %}
