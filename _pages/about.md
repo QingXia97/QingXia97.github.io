@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am a PhD candidate in Accounting at the Saïd Business School, University of Oxford.
+Welcome! I am a PhD candidate in Accounting at the Saïd Business School, University of Oxford.
 
 I will be on the 2026/27 job market.
 
